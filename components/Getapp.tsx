@@ -1,3 +1,5 @@
+// © 2025 gihantha deshabi. All Rights Reserved. 2025-03-28
+
 import React from 'react'
 import Button from './Button'
 import Image from 'next/image'

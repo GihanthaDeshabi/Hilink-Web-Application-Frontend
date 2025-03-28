@@ -1,3 +1,5 @@
+// © 2025 gihantha deshabi. All Rights Reserved. 2025-03-28
+
 import { FEATURES } from '@/constants'
 import Image from 'next/image'
 import React from 'react'

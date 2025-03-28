@@ -1,3 +1,5 @@
+// © 2025 gihantha deshabi. All Rights Reserved. 2025-03-28
+
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
