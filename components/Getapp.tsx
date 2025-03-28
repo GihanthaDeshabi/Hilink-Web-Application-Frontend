@@ -44,4 +44,4 @@ const Getapp = () => {
   )
 }
 
-export default Getapp
+export default Getapp;
