@@ -1,3 +1,5 @@
+// © 2025 gihantha deshabi. All Rights Reserved. 2025-03-28
+
 // NAVIGATION
 export const NAV_LINKS = [
     { href: '/', key: 'home', label: 'Home' },

@@ -1,3 +1,5 @@
+// © 2025 gihantha deshabi. All Rights Reserved. 2025-03-28
+
 // © 2025 gihantha deshabi. All Rights Reserved. 2025-03-24
 
 import { PEOPLE_URL } from "@/constants";
